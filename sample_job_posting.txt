@@ -1,0 +1,49 @@
+Senior Data Scientist - AI/ML Platform
+Company: TechCorp
+Location: San Francisco, CA (Remote friendly)
+
+About the Role:
+We are seeking an experienced Senior Data Scientist to join our AI/ML Platform team. You'll be responsible for developing cutting-edge machine learning solutions that power our products used by millions of customers worldwide.
+
+Requirements:
+• 5+ years of experience in data science and machine learning
+• Strong proficiency in Python and SQL
+• Experience with machine learning frameworks: TensorFlow, PyTorch, Scikit-learn
+• Deep understanding of statistical methods and data analysis
+• Experience with cloud platforms (AWS, Azure, or GCP)
+• Proficiency with data visualization tools (Matplotlib, Plotly, Tableau)
+• Experience with MLOps and model deployment
+• Strong problem-solving and analytical thinking skills
+• Excellent communication and collaboration abilities
+• Experience mentoring junior team members
+
+Nice to Have:
+• PhD in Computer Science, Statistics, or related field
+• Experience with big data technologies (Spark, Hadoop)
+• Knowledge of deep learning and neural networks
+• Experience with A/B testing and experimental design
+• Familiarity with containerization (Docker, Kubernetes)
+• Open source contributions
+
+Responsibilities:
+• Design and implement machine learning models for various business applications
+• Collaborate with engineering teams to deploy models at scale
+• Conduct exploratory data analysis to identify patterns and insights
+• Work with product managers to define ML strategy and roadmap
+• Mentor and guide junior data scientists
+• Stay current with latest ML research and industry best practices
+• Participate in code reviews and maintain high code quality standards
+
+What We Offer:
+• Competitive salary: $140K - $190K + equity
+• Comprehensive health, dental, and vision insurance
+• Flexible PTO and work-from-home options
+• $5,000 annual learning and development budget
+• Top-tier equipment and home office setup
+• Stock options with high growth potential
+
+Company Culture:
+We're a fast-growing company that values innovation, collaboration, and continuous learning. Our team is passionate about using AI to solve real-world problems. We encourage experimentation and provide the resources needed to do your best work.
+
+How to Apply:
+Send your resume and a brief cover letter explaining your interest in the role.

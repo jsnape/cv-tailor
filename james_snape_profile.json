@@ -1,0 +1,264 @@
+{
+  "personal_info": {
+    "full_name": "James Snape",
+    "email": "james.snape@gmail.com",
+    "phone": "+44 7790 925 202",
+    "location": "United Kingdom",
+    "linkedin": "http://www.linkedin.com/in/jamessnape",
+    "portfolio": "https://snape.me",
+    "github": "https://github.com/jsnape"
+  },
+  "professional_summary": "Accomplished Solution Architect and Engineering Leader with 30+ years of experience spanning business intelligence, cloud architecture, and software development. Proven track record of delivering complex technical solutions across financial services, healthcare, and technology sectors. Expert in stakeholder management, agile delivery, and building high-performing teams. Particularly skilled in SQL Server, Azure cloud technologies, and business intelligence solutions with deep expertise in lean architecture and solution delivery.",
+  "technical_skills": {
+    "programming": ["C#", "PowerShell", "TypeScript", "JavaScript", "Python", "SQL", "Visual Basic 6", "C++"],
+    "cloud_platforms": ["Azure", "Azure DevOps", "Azure Functions", "Data Factory", "CosmosDB", "Event Hub", "Service Bus"],
+    "databases": ["SQL Server", "CosmosDB", "Data Lake"],
+    "bi_tools": ["Analysis Services", "Integration Services", "Reporting Services", "Power BI", "Tableau"],
+    "frameworks": ["Astro JS", "Tailwind CSS", "Svelte", ".NET", "DirectShow"],
+    "tools": ["JIRA", "Team Foundation Services", "SAP Power Designer", "Specflow", "Hadoop"],
+    "protocols": ["HL7", "COM/ActiveX", "Win32"]
+  },
+  "soft_skills": [
+    "Solution Architecture", 
+    "Stakeholder Management", 
+    "Agile/Lean Methodologies", 
+    "Team Leadership", 
+    "Technical Presales", 
+    "Workshop Facilitation", 
+    "Requirements Gathering & Analysis", 
+    "Project Management", 
+    "DevOps", 
+    "Performance Tuning"
+  ],
+  "work_experience": [
+    {
+      "company": "Personal Project",
+      "position": "Designer/Developer",
+      "start_date": "2024-01-01",
+      "end_date": null,
+      "description": "Rebuilt personal blog using modern web technologies, owning both code and content. Transitioned from managed WordPress to custom solution for better code highlighting and control.",
+      "achievements": [
+        "Created custom blog platform using modern web stack",
+        "Migrated 20 years of blogging content",
+        "Implemented advanced code highlighting capabilities"
+      ],
+      "technologies": ["Astro JS", "Tailwind CSS", "Svelte", "HTML", "TypeScript"]
+    },
+    {
+      "company": "Avanade",
+      "position": "Group Manager (Solution Architect)",
+      "start_date": "2022-01-01",
+      "end_date": null,
+      "description": "Solution Architect for Modern Application Transformation team, leading presales through delivery. Delivered award-winning projects including OfWat Water Innovation Challenge winner and NHS DevOps Excellence initiatives.",
+      "achievements": [
+        "Won OfWat Water Innovation Challenge for vulnerable customer data sharing hub",
+        "Delivered DevOps Excellence roadmap for NHS organization",
+        "Led IFRS-17 analytics transformation for UK insurer",
+        "Architected Python-to-Azure migration for Oil & Gas company",
+        "Transitioned microservices to managed support model for financial services"
+      ],
+      "technologies": ["CosmosDB", "Azure Functions", "Service Bus", "Cognitive Search", "Azure DevOps", "Azure Media Services"]
+    },
+    {
+      "company": "Hitachi Vantara",
+      "position": "Engineering Lead",
+      "start_date": "2021-05-01",
+      "end_date": "2021-12-01",
+      "description": "Practice role accountable for development standards, skills management, learning & development, and team capabilities.",
+      "achievements": [
+        "Established development standards across practice",
+        "Implemented skills management framework",
+        "Led learning and development initiatives"
+      ],
+      "technologies": ["Agile methodologies"]
+    },
+    {
+      "company": "Hitachi Vantara",
+      "position": "Senior Manager (Data & Integration Architect)",
+      "start_date": "2020-02-01",
+      "end_date": "2021-12-01",
+      "description": "Data and Integration Architect for Healthcare Patient Flow and Optimization project. Designed low-latency kappa architecture for patient flow monitoring and control.",
+      "achievements": [
+        "Designed low-latency patient flow monitoring solution",
+        "Implemented HL7 event processor with Azure Functions",
+        "Integrated ML models for length-of-stay predictions",
+        "Featured in WIRED article: 'The digital tools that could save the NHS'"
+      ],
+      "technologies": ["Azure DevOps", "Azure Functions", "CosmosDB", "Event Hub", "HL7"]
+    },
+    {
+      "company": "Hitachi Vantara",
+      "position": "Senior Manager (Business Intelligence Architect)",
+      "start_date": "2019-07-01",
+      "end_date": "2020-01-01",
+      "description": "BI Architect with hospitality client, focusing on cost optimization and performance improvements.",
+      "achievements": [
+        "Reduced monthly Azure OpEx costs by 50%",
+        "Designed reliable low-latency data pipelines",
+        "Implemented data-lake governance structures",
+        "Mentored consultants in BI transition"
+      ],
+      "technologies": ["SQL Server", "Azure DevOps", "Azure Functions", "Data Factory", "Stream Analytics", "Event Hub", "Data Lake", "Power BI"]
+    },
+    {
+      "company": "Hitachi Vantara",
+      "position": "Senior Manager (Business Intelligence Architect)",
+      "start_date": "2018-03-01",
+      "end_date": "2019-06-01",
+      "description": "BI Architect at retailer, leading IaaS to PaaS migration and implementing automated deployment pipelines.",
+      "achievements": [
+        "Reduced lead times from 50+ days to 10 days",
+        "Created automated build, test, and deployment in Azure DevOps",
+        "Led offshore delivery team",
+        "Implemented JSON configuration solution for SSIS"
+      ],
+      "technologies": ["SQL Server", "C#", "PowerShell", "Azure DevOps", "Azure", "Data Factory"]
+    },
+    {
+      "company": "BNP Paribas",
+      "position": "Solutions Architect",
+      "start_date": "2011-01-01",
+      "end_date": "2015-12-01",
+      "description": "Solutions Architect for Fixed Income Business Intelligence, covering FX, interest rate, and credit products. Led architecture evolution from traditional to agile approaches.",
+      "achievements": [
+        "Delivered complex multi-source BI solution for fixed income trading",
+        "Implemented big data/Hadoop cluster integration",
+        "Led data quality enterprise rollout",
+        "Reduced time-to-market through lean process analysis",
+        "Managed team of 8-10 developers using Scrum methodology"
+      ],
+      "technologies": ["SQL Server", "Analysis Services", "Integration Services", "Tableau", "JIRA", "Hadoop"]
+    },
+    {
+      "company": "Microsoft UK",
+      "position": "Business Intelligence Consultant",
+      "start_date": "2009-01-01",
+      "end_date": "2010-12-01",
+      "description": "Advised customers on business intelligence solutions, from data acquisition to visualization. Specialized in data warehousing and dimensional modeling.",
+      "achievements": [
+        "Delivered FX trading BI solution for BNP Paribas",
+        "Implemented batch payment processing with Integration Services for Nationwide"
+      ],
+      "technologies": ["SQL Server", "Integration Services", "Analysis Services", "Reporting Services"]
+    },
+    {
+      "company": "Microsoft UK",
+      "position": "Application Development Consultant",
+      "start_date": "2006-03-01",
+      "end_date": "2009-11-01",
+      "description": "Worked with diverse customers from ISVs to enterprises on full development lifecycle. Specialized in .NET, development processes, and business intelligence.",
+      "achievements": [
+        "Delivered BI architecture and performance solutions for Aggreko",
+        "Provided development process guidance for Visa",
+        "Implemented BI solutions for Barclays Capital and Xchanging"
+      ],
+      "technologies": ["SQL Server", ".NET", "Analysis Services"]
+    },
+    {
+      "company": "Exony (acquired by eGain)",
+      "position": "Program Manager",
+      "start_date": "2000-04-01",
+      "end_date": "2006-03-01",
+      "description": "Software architecture and project management for reporting and analytics platform. Led multiple products including call centre management and integration systems.",
+      "achievements": [
+        "Architected and deployed sit-up.tv auction system",
+        "Created SQL/OLAP installer tool reducing upgrade costs",
+        "Designed XML processing pipeline for telecoms integration",
+        "Delivered web-based call centre BI system to major UK telcos"
+      ],
+      "technologies": ["JavaScript", "CSS", "HTML", "XML", "COM"]
+    },
+    {
+      "company": "Sony Broadcast & Professional Europe",
+      "position": "Senior R&D Engineer",
+      "start_date": "1994-08-01",
+      "end_date": "2000-04-01",
+      "description": "Software design and development on video server, video editor, and DVD authoring systems. Led multiple R&D projects from concept to delivery.",
+      "achievements": [
+        "Designed market-leading DVD authoring system",
+        "Architected video server for television news organizations",
+        "Implemented hot standby fail-over system",
+        "Built journalist workstation in partnership with Oracle"
+      ],
+      "technologies": ["Visual Basic 6", "C++", "Win32", "COM/ActiveX", "DirectShow"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kings College, London",
+      "degree": "Bachelor of Engineering",
+      "field_of_study": "Computer Systems & Electronics",
+      "start_date": "1990-09-01",
+      "end_date": "1994-06-01",
+      "gpa": null,
+      "achievements": []
+    },
+    {
+      "institution": "Repton School",
+      "degree": "A-Levels",
+      "field_of_study": "Mathematics, Physics, Chemistry, Electronics",
+      "start_date": "1988-09-01",
+      "end_date": "1990-07-01",
+      "gpa": "Maths (B), Physics (B), Chemistry (A), Electronics (C)",
+      "achievements": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "snape.me blog",
+      "description": "Personal blog rebuilt using modern web technologies after 20 years of blogging. Transitioned from managed WordPress to custom solution for better control and code highlighting.",
+      "technologies": ["Astro JS", "Tailwind CSS", "Svelte", "HTML", "TypeScript"],
+      "url": "https://snape.me",
+      "github_url": "https://github.com/jsnape/jsnape.github.io",
+      "start_date": "2024-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Support for All - Water Innovation Challenge",
+      "description": "Award-winning OfWat Water Innovation Challenge project designing a secure hub for sharing priority register data between utilities to help vulnerable customers.",
+      "technologies": ["Azure", "Data sharing platform", "Security architecture"],
+      "url": "https://waterinnovation.challenges.org/winners/support-for-all/",
+      "start_date": "2022-01-01",
+      "end_date": "2023-12-01"
+    },
+    {
+      "name": "Healthcare Patient Flow Optimization",
+      "description": "AI-enabled healthcare system for patient flow monitoring and optimization using low-latency kappa architecture with ML predictions.",
+      "technologies": ["Azure Functions", "CosmosDB", "Event Hub", "HL7", "Machine Learning"],
+      "url": "https://www.wired.com/sponsored/story/the-digital-tools-that-could-save-the-nhs/",
+      "start_date": "2020-02-01",
+      "end_date": "2021-12-01"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "System Integration Solution Architect (SISA)",
+      "issuer": "Industry Certification",
+      "date_obtained": "2022-01-01",
+      "expiry_date": null,
+      "credential_id": null,
+      "url": null
+    }
+  ],
+  "languages": ["English (Native)"],
+  "industry_expertise": [
+    "Financial Services",
+    "Healthcare",
+    "Utilities", 
+    "Telecommunications",
+    "Media & Broadcasting",
+    "Insurance",
+    "Government",
+    "Retail"
+  ],
+  "specializations": [
+    "Business Intelligence",
+    "Data Architecture",
+    "Cloud Migration",
+    "Solution Architecture",
+    "DevOps Excellence",
+    "Regulatory Reporting",
+    "Real-time Systems",
+    "Integration Platforms"
+  ]
+}

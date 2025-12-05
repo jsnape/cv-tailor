@@ -1,0 +1,138 @@
+{
+  "personal_info": {
+    "full_name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "+1-555-0123",
+    "location": "San Francisco, CA",
+    "linkedin": "linkedin.com/in/johndoe",
+    "portfolio": "johndoe.dev",
+    "github": "github.com/johndoe"
+  },
+  "professional_summary": "Experienced software engineer with 8+ years in full-stack development, specializing in Python, JavaScript, and cloud technologies. Proven track record of leading teams and delivering scalable solutions.",
+  "technical_skills": {
+    "programming": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "Go"
+    ],
+    "frameworks": [
+      "React",
+      "Django",
+      "FastAPI",
+      "Node.js"
+    ],
+    "tools": [
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "Jenkins"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MongoDB",
+      "Redis"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ]
+  },
+  "soft_skills": [
+    "Leadership",
+    "Communication",
+    "Problem-solving",
+    "Team collaboration",
+    "Mentoring"
+  ],
+  "work_experience": [
+    {
+      "company": "Tech Corp",
+      "position": "Senior Software Engineer",
+      "start_date": "2020-01-01",
+      "end_date": "2024-12-01",
+      "description": "Led development of microservices architecture serving 1M+ users. Mentored junior developers and improved deployment efficiency by 40%.",
+      "achievements": [
+        "Reduced system latency by 50% through optimization",
+        "Led team of 5 developers on critical projects",
+        "Implemented CI/CD pipeline reducing deployment time by 60%"
+      ],
+      "technologies": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "AWS",
+        "Docker"
+      ]
+    },
+    {
+      "company": "StartupXYZ",
+      "position": "Full Stack Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2019-12-01",
+      "description": "Built entire web platform from scratch using modern technologies. Worked directly with founders to define product requirements.",
+      "achievements": [
+        "Developed MVP that secured $2M in Series A funding",
+        "Built real-time analytics dashboard processing 100K+ events/day"
+      ],
+      "technologies": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, Berkeley",
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science",
+      "start_date": "2014-09-01",
+      "end_date": "2018-05-01",
+      "gpa": "3.8",
+      "achievements": [
+        "Dean's List",
+        "Computer Science Honor Society"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Open Source ML Library",
+      "description": "Created and maintain a machine learning library with 2K+ GitHub stars",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "Scikit-learn"
+      ],
+      "url": "https://github.com/johndoe/ml-lib",
+      "start_date": "2022-01-01"
+    },
+    {
+      "name": "Personal Finance App",
+      "description": "Full-stack application for tracking expenses and investments",
+      "technologies": [
+        "React",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "url": "https://financeapp.com",
+      "start_date": "2023-06-01",
+      "end_date": "2023-12-01"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date_obtained": "2022-03-15",
+      "credential_id": "AWS-SAA-123456"
+    }
+  ],
+  "languages": [
+    "English (Native)",
+    "Spanish (Conversational)"
+  ]
+}
